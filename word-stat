@@ -1,4 +1,4 @@
-;; Modified from  my org-mode chapter drafts
+;; Adapted function from stackexchane for my org-mode chapter drafts
 ;; References:
 ;; s.el at https://github.com/magnars/s.el
 ;; https://emacs.stackexchange.com/a/13518/16948
